@@ -1,0 +1,51 @@
+1ère étape : durée 1 heure
+--------------------------
+
+
+
+- initier les étudiants à l'outil de développement Eclipse : créer et éditer un fichier .c
+- mode débugage (option de compilation -g) avec exemple de débugage pas à pas d'un programme
+
+2ème étape durée 2 heures (mode autonome)
+----------------------------------------------
+
+
+
+Exercice 1 :
+------------
+
+écrire un programme qui affiche le menu suivant :
+
+1-Addition
+2-Multiplication
+3-Division
+4-Soustraction
+Votre choix :
+
+Lorsque vous entrez un chiffre compris entre 1 et 4, le programme vous demande d'entrer 2 nombres à virgule et affiche le résultat de l'opération.
+Assurez-vous que pour la division le deuxième nombre est différent de zéro.
+
+
+Exercice 2 :
+------------
+
+Sécurisez à l'aide d'une boucle do...while le menu de l'exercice 1 et l'entrée au clavier de la division (l'utilisateur est invité à retaper un choix tant que la valeur tapé est non comprise entre 1 et 4).
+
+Exercice 3 :
+------------
+
+Ecrire le programme C qui détermine si un nombre entier est premier ou pas (un nombre premier est un nombre divisible uniquement par 1 et lui même).
+
+Exercice 4 :
+------------
+
+Les règles:
+
+Chaque joueur prend à tour de rôle de 1, 2 ou 3 allumettes dans un tas comprenant initialement NB_ALUMETTES allumettes. Celui qui prend la dernière
+allumette perd le jeu.
+
+On considère que les deux joueurs sont humains, et le programme vérifie seulement la validité des choix des 2 joueurs et
+désigne le vainqueur.
+
+
+
